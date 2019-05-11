@@ -24,6 +24,11 @@ export default {
       type: 'datetime'
     },
     {
+      title: 'Game played?',
+      name: 'played',
+      type: 'boolean'
+    },
+    {
       title: 'Scores',
       name: 'scores',
       type: 'object',
